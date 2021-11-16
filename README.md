@@ -27,6 +27,6 @@
 
 ### Prerequisites
 
-Nothing
+No requirements needed. The bot will run in windows/mac/linux.
 
-[Virus scan details](https://www.virustotal.com/gui/file/31c41af29b2b168359a4bfb3350e9ced6ef432dd82d0a9c2b96934fd9475f05b?nocache=1)
+[Virus scan details](https://www.virustotal.com/gui/file/31c41af29b2b168359a4bfb3350e9ced6ef432dd82d0a9c2b96934fd9475f05b?nocache=1) ✅
