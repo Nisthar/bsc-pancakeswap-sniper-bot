@@ -20,4 +20,3 @@
   </p>
 </div>
 
-Free pancakeswap sniperbot (binance smart chain)
