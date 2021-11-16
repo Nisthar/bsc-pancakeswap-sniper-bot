@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://discord.gg/XjJ7XPscZF">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">Kraber bot</h3>
@@ -20,3 +20,7 @@
   </p>
 </div>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/Ko91VJO.png)
