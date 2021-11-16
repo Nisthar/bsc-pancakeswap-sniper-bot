@@ -23,4 +23,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/Ko91VJO.png)
+![product-screenshot](https://i.imgur.com/Ko91VJO.png)
+
+### Prerequisites
+
+Nothing
+
+Virus scan details: https://www.virustotal.com/gui/file/31c41af29b2b168359a4bfb3350e9ced6ef432dd82d0a9c2b96934fd9475f05b?nocache=1
